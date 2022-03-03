@@ -46,7 +46,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 <html lang="en">
 <head>
 <!-- SmartDeFi CSS file -->
-  <link href="" rel="stylesheet" type="text/css"/>
+  <link href="" rel="stylesheet" type="text/css" />
   <title></title>
 </head>
 <body>
