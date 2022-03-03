@@ -35,7 +35,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 | data-elevation | optional | on or off| Default off |
   
 
-### Example
+### Rednering element example
 
 `<div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>`
 
