@@ -43,9 +43,9 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 `<!doctype html>`  
 
-`<html lang="en">`  
+`\<html lang="en">`  
 
-`<head>
+`\<head>
   <link href="" rel="stylesheet" type="text/css"/>
   <title></title>
 </head>`
