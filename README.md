@@ -7,14 +7,14 @@ Copy the javascript and css files into your websites html.
 
 #### CSS
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg" />
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg" />`
 
 #### JS
 
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  `
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  `
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  `
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>  `
 
 
 ### Best practice
