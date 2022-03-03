@@ -46,8 +46,8 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 `<html lang="en">`  
 
 `\<head>
-  `<link href="" rel="stylesheet" type="text/css"/>`
-  `<title></title>`
+  `\<link href="" rel="stylesheet" type="text/css"/>`
+  `\<title></title>`
 `\</head>`
 `<body>
 <div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>`
