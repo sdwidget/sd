@@ -11,7 +11,7 @@ Add the css file to the `<head>` section and js files at the end of the `<body>`
 
 ## Usage
 
-Add a `<div id="sd-widget">` element where you would like the widget to display and add the corresponding data properties.
+Add a `<div id="sd-widget"></div>` element where you would like the widget to display and add the corresponding data properties.
 
 | Propertiy  | Required | values                |
 | ---------- | -------- | ------------------------ |
