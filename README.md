@@ -41,19 +41,23 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 ### Full code exaple
 
-```<!doctype html>
-
+```
+<!doctype html>
 <html lang="en">
-
 <head>
+<!-- SmartDeFi CSS file -->
   <link href="" rel="stylesheet" type="text/css"/>
   <title></title>
 </head>
 <body>
-<div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>```
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script> 
+
+<!-- SmartDeFi render element -->
+<div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>
+
+<!-- SmartDeFi js scripts -->
+<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script> 
 <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
 <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>`
-`</body>`
-`</html>`
+<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
+</body>
+</html>```
