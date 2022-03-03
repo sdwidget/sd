@@ -19,7 +19,7 @@ Include the javascript and css files into your websites
 
 ### Best practice
 
-Add the css file to the `<head>` section and js files at the end of the `<body>` element.
+Add the css to the `<head>` section and js at the end of your `<body>` element.
 
 
 ## Usage
