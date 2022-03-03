@@ -41,8 +41,10 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 ### Full code exaple
 
-`<!doctype html>`
-`<html lang="en">`
+`<!doctype html>`  
+
+`<html lang="en">`  
+
 `<head>
   <link href="" rel="stylesheet" type="text/css"/>
   <title></title>
