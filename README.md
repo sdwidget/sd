@@ -41,8 +41,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 ### Full code exaple
 
-`
-<!doctype html>
+`<!doctype html>
 <html lang="en">
 <head>
   <link href="" rel="stylesheet" type="text/css"/>
@@ -55,5 +54,4 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
 <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
 </body>
-</html>
-`
+</html>`
