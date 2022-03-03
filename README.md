@@ -13,7 +13,7 @@ Add the css file to the `<head>` section and js files at the end of the `<body>`
 
 Add a `<div id="sd-widget"></div>` element where you would like the widget to display and add the corresponding data properties.
 
-| Propertiy  | Required | Values                |
+| Property  | Required | Values                |
 | :--------- | :------- | :----------------------- |
 | data-token | required | Token address|
 | data-chain | required | 56 for BSC or 1 for ETH |
