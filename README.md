@@ -3,7 +3,7 @@
 
 ## Installation
 
-Copy the javascript and css files into your websites html.
+Include the javascript and css files into your websites
 
 #### CSS
 
