@@ -7,7 +7,7 @@ Include the javascript and css files into your website
 
 #### CSS
 
-`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg" />`
+``` <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg" /> ```
 
 #### JS
 
