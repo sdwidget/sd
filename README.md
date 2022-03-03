@@ -15,7 +15,7 @@ Add a `<div>` element where you would like the widget to display and add the cor
 
 | Propertiy  | Required | values                |
 | ---------- | -------- | ------------------------ |
-| data-token | required | sd token contract address|
+| data-token | required | Token address|
 | data-chain | required | 56 for BSC or 1 for ETH |
 | data-theme | optional | dark or light | 
 | data-elevation | optional | on or off|
