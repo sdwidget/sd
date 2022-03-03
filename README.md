@@ -1,4 +1,4 @@
-# SmartDeFi widget
+# SmartDeFi Widget
 
 
 ## Installation
