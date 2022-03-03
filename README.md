@@ -3,7 +3,7 @@
 
 ## Installation
 
-Include the javascript and css files into your websites
+Include the javascript and css files into your website
 
 #### CSS
 
