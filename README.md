@@ -7,14 +7,11 @@ Include the javascript and css files into your website
 
 #### CSS
 
-``` <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg" /> ```
+``` <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/css/sdwidget.css" /> ```
 
 #### JS
 
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>`  
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>`  
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>`  
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>`  
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>`   
 
 
 ### Best practice
@@ -46,7 +43,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 <html lang="en">
 <head>
 <!-- SmartDeFi CSS file -->
-  <link href="" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/css/sdwidget.css" />
   <title></title>
 </head>
 <body>
@@ -55,10 +52,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 <div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>
 
 <!-- SmartDeFi js scripts -->
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script> 
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
-<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/media/FEGlogo_widgetIcon.svg"></script>
+<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>
 </body>
 </html>
 ```
