@@ -34,7 +34,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 ### Rendering element example
 
-`<div id="sd-widget" data-token="contract address" data-chain="56" data-theme="dark" data-elevation="on"></div>`
+`<div id="sd-widget" data-token="SD token address" data-chain="56" data-theme="dark" data-elevation="on"></div>`
 
 ### Full code exaple
 
@@ -42,9 +42,11 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 <!doctype html>
 <html lang="en">
   <head>
+
     <!-- SmartDeFi CSS file -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/css/sdwidget.css" />
-    <title></title>
+    
+    <title>SmartDeFi Widget</title>
   </head>
   <body>
 
@@ -53,6 +55,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
   <!-- SmartDeFi js scripts -->
   <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>
-</body>
+
+  </body>
 </html>
 ```
