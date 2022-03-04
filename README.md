@@ -60,3 +60,28 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
   </body>
 </html>
 ```
+
+
+### Custom Colors
+
+Add the following style block at the end of your head section, right before the closing &lt;/head>
+```
+<style>
+    /* Button Color */
+    .sd-widget-toolbar-nav>div.sd-widget-toolbar-nav-active,
+    .sd-widget-bottom button,
+    .sd-widget-bottom button:hover{
+        background-color: #872eff;
+    }
+    
+    /* Text color for disabled button */
+    .sd-widget-bottom button.Mui-disabled {
+        background-color: #ccc;
+    }
+    
+    /* Background color for disabled button */
+    .sd-widget-bottom button.MuiIconButton-root {
+        background-color: rgb(242, 244, 243);
+    }
+</style>
+```
