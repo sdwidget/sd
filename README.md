@@ -74,7 +74,7 @@ Add the following style block at the end of your head section, right before the 
         background-color: #872eff;
     }
     
-    /* Text color for disabled button */
+    /* Background color for toggle button */
     .sd-widget-bottom button.Mui-disabled {
         background-color: #ccc;
     }
