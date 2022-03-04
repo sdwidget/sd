@@ -25,7 +25,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
 
 | Property  | Required | Values                | Description | 
 | :--------- | :------- | :----------------------- | :----- |
-| data-token | required | Token address            | 
+| data-token | required | Token address            |         |
 | data-chain | required | 56 or 1 | 56 for BSC or 1 for ETH |
 | data-infura | optional | infura API key | Required for ETH chain |
 | data-theme | optional | dark or light | Default dark |
@@ -53,7 +53,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
   <!-- SmartDeFi render element -->
   <div id="sd-widget" data-token="SD token address" data-chain="56" data-theme="dark" data-elevation="on"></div>
 
-  <!-- SmartDeFi js scripts -->
+  <!-- SmartDeFi js script -->
   <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>
 
   </body>
