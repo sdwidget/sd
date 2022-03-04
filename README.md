@@ -11,7 +11,7 @@ Include the javascript and css files into your website
 
 #### JS
 
-`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>`   
+`<script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js" defer></script>`   
 
 
 ### Best practice
@@ -54,7 +54,7 @@ Add a `<div id="sd-widget"></div>` element where you would like the widget to di
   <div id="sd-widget" data-token="SD token address" data-chain="56" data-theme="dark" data-elevation="on"></div>
 
   <!-- SmartDeFi js script -->
-  <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/sdwidget/sd/js/sdwidget.js" defer></script>
 
   </body>
 </html>
